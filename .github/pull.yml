@@ -2,4 +2,4 @@ version: "1"
 rules:
   - base: main
     upstream: cs-pub-help:main
-    mergeMethod: hardreset
+    mergeMethod: none #hardreset
